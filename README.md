@@ -1,2 +1,2 @@
-# meetups
-Repository for all our Meetup session slides
+# Workplace Ninja User Group - Meetups
+In this repository we will provide you all our speakers slides from our Meetup sessions
